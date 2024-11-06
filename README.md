@@ -26,16 +26,17 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcusStudios&theme=radical" alt="GitHub Trophies">
+  <img src="https://github-profile-trophy.vercel.app/?username=MarcusStudios&theme=graywhite&no-frame=true&column=4" alt="GitHub Trophies">
 </div>
+
 
 ---
 
 ### 📌 Projetos em Destaque
-- [LINGUAGEANDO](https://github.com/MarcusStudios/linguageando): Aplicativo para aprendizado de línguas. 🌟
-- [Projeto de Jogo de Reciclagem](https://github.com/MarcusStudios/reciclagem-jogo): Jogo educativo sobre reciclagem. ♻️
-
----
+- [LINGUAGEANDO](https://github.com/MarcusStudios/linguageando): Aplicativo para aprendizado de línguas. 🌟  
+  <img src="https://github.com/MarcusStudios/Linguageando/blob/main/src/assets/logo.png?raw=true" width="40" height="40" alt="LINGUAGEANDO Logo"/>  
+- [Projeto de Jogo de Reciclagem](https://github.com/MarcusStudios/reciclagem-jogo): Jogo educativo sobre reciclagem. ♻️  
+  <img src="https://thumbs.dreamstime.com/b/ecology-logo-environmental-label-green-leaves-tree-drop-water-37248254.jpg" width="40" height="40" alt="Reciclagem Logo"/>
 
 ### 🌐 Entre em Contato
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:marcuseduardo846@gmail.com)
