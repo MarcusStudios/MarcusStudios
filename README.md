@@ -11,15 +11,16 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
 <div style="display: inline_block"><br> <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Marcus-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Marcus-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg"> <img align="center" alt="Marcus-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> <img align="center" alt="Marcus-Expo" height="30" width="40" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4"> </div>
 
 
-### 📊 Minhas Estatísticas
+## 📊 Minhas Estatísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusStudios&show_icons=true&theme=radical" width="400px" alt="Estatísticas do GitHub">&nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=radical" width="335px" alt="Linguagens Mais Utilizadas">
+  <img src="https://github-readme-stats.vercel.app/api?username=MarcusStudios&show_icons=true&theme=graywhite" width="400px" alt="Estatísticas do GitHub">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=graywhite" width="335px" alt="Linguagens Mais Utilizadas">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusStudios&theme=radical" width="400px" alt="Contribuições Diárias">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusStudios&theme=graywhite" width="400px" alt="Contribuições Diárias">
 </div>
+
 
 ---
 
