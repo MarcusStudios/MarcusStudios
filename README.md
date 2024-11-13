@@ -2,7 +2,7 @@
 ---
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Marcus!;" />
 </h1>
 
 Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e criação de sites 🌐. Com 18 anos, estou sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.
