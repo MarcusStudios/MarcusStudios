@@ -45,7 +45,7 @@ const marcus = {
 <br>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,firebase,git,vscode,idea,&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,idea,javascript,react,html,css,firebase,git,vscode,&theme=dark" />
 </div>
 
 <p align="center">
