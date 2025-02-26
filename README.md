@@ -181,7 +181,7 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱, cria
 
 ## 💼 Experiência Profissional
 
-- **Projetos Acadêmicos** - IFMA (2023-Atual)
+- **Projetos Acadêmicos** - IFMA (2023-2024)
   - Desenvolvimento de soluções educacionais e aplicativos para o campus
   - Implementação de sistemas em Java para gestão acadêmica
   - Participação em iniciativas de extensão e pesquisa
@@ -193,10 +193,8 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱, cria
 
 ## 📚 Formação e Certificações
 
-- **Técnico em Informática** - IFMA (em andamento)
-- **Certificação Java Foundations** - (em preparação)
-- **Curso de Desenvolvimento Mobile com React Native** - Udemy
-- **Curso de Java Completo** - Alura
+- **Técnico em Informática** - IFMA (2022-2024)
+
 
 ---
 
