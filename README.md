@@ -194,6 +194,7 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱, cria
 ## 📚 Formação e Certificações
 
 - **Técnico em Informática** - IFMA (2022-2024)
+- **Engenharia de Software** - IFMA (2025-2029)
 
 
 ---
