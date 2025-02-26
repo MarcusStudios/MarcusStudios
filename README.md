@@ -11,7 +11,8 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
 
 ⚙️ Tecnologias usadas em meus projetos!
 <div style="display: inline_block"><br> <img align="center" alt="Marcus-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  <img align="center" alt="Marcus-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Marcus-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Marcus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Marcus-Firebase" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg"> <img align="center" alt="Marcus-Expo" height="30" width="40" src="https://avatars.githubusercontent.com/u/12504344?s=200&v=4">
-<img align="center" alt="Marcus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"></div>
+<img align="center" alt="Marcus-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 
 
 ## Contribuições
