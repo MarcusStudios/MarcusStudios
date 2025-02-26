@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Marcus!;Desenvolvedor+Mobile+e+Web" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Marcus!;Desenvolvedor+Mobile,+Web+e+Java" />
 </h1>
 
 <div align="center">
@@ -8,12 +8,12 @@
 
 ## 💫 Sobre Mim
 
-Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e criação de sites 🌐. Com 18 anos, estou sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.
+Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱, criação de sites 🌐 e programação Java ☕. Com 18 anos, estou sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.
 
 - 🔭 Atualmente estou trabalhando em **aplicativos mobile com React Native e Expo**
-- 🌱 Estou aprendendo **Firebase, APIs RESTful e UI/UX Design**
+- 🌱 Estou aprendendo **Java, Spring Boot, Firebase e APIs RESTful**
 - 👯 Procuro colaborar em **projetos de código aberto e iniciativas educacionais**
-- 💬 Pergunte-me sobre **React Native, JavaScript e desenvolvimento front-end**
+- 💬 Pergunte-me sobre **Java, React Native, JavaScript e desenvolvimento front-end**
 - ⚡ Curiosidade: **Além de programar, adoro música e jogos de estratégia!**
 
 <div align="center">
@@ -24,6 +24,8 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
 
 <div align="center">
   
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
   ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
   ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -31,11 +33,42 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
   ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
   ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
   ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
   ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
   
+</div>
+
+## 💻 Habilidades em Java
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Conhecimentos em Java</h3>
+        <ul>
+          <li>Programação Orientada a Objetos</li>
+          <li>Collections Framework</li>
+          <li>Manipulação de Arquivos</li>
+          <li>Programação Funcional (Streams, Lambda)</li>
+          <li>Multithreading</li>
+          <li>JDBC para conexão com bancos de dados</li>
+        </ul>
+      </td>
+      <td width="50%">
+        <h3 align="center">Frameworks & Bibliotecas</h3>
+        <ul>
+          <li>Aprendendo Spring Boot</li>
+          <li>Maven para gerenciamento de dependências</li>
+          <li>JUnit para testes unitários</li>
+          <li>JavaFX para interfaces gráficas</li>
+          <li>Hibernate/JPA</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ## 📊 Estatísticas do GitHub
@@ -109,6 +142,27 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
   </tr>
 </table>
 
+### ☕ Projetos Java
+
+<table>
+  <tr>
+    <td width="100%">
+      <h3 align="center">Sistema de Gestão Escolar (Em desenvolvimento)</h3>
+      <div align="center">
+        <p>Sistema desenvolvido em Java para gerenciamento de alunos, professores e disciplinas. Utiliza interface gráfica JavaFX e armazenamento em banco de dados SQL.</p>
+        <p>Principais recursos:</p>
+        <ul>
+          <li>Cadastro de alunos e professores</li>
+          <li>Registro de notas e frequência</li>
+          <li>Geração de relatórios de desempenho</li>
+          <li>Interface gráfica intuitiva</li>
+        </ul>
+        <p>Tecnologias: Java, JavaFX, JDBC, MySQL</p>
+      </div>
+    </td>
+  </tr>
+</table>
+
 ## 📫 Entre em Contato
 
 <div align="center">
@@ -129,11 +183,20 @@ Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱 e cri
 
 - **Projetos Acadêmicos** - IFMA (2023-Atual)
   - Desenvolvimento de soluções educacionais e aplicativos para o campus
+  - Implementação de sistemas em Java para gestão acadêmica
   - Participação em iniciativas de extensão e pesquisa
 
-- **Freelancer** - Desenvolvimento Web (2022-Atual)
+- **Freelancer** - Desenvolvimento Web e Software (2022-Atual)
   - Criação de sites responsivos para pequenos negócios
+  - Desenvolvimento de aplicações desktop com Java
   - Implementação de lojas virtuais e landing pages
+
+## 📚 Formação e Certificações
+
+- **Técnico em Informática** - IFMA (em andamento)
+- **Certificação Java Foundations** - (em preparação)
+- **Curso de Desenvolvimento Mobile com React Native** - Udemy
+- **Curso de Java Completo** - Alura
 
 ---
 
