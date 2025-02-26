@@ -56,9 +56,6 @@ const marcus = {
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
 
 ## 📫 Contato
 
@@ -66,7 +63,7 @@ const marcus = {
   <a href="mailto:marcuseduardo846@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-5E81AC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/marcusstudios">
+  <a href="https://www.linkedin.com/in/marcus-eduardo-77022a324/">
     <img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://instagram.com/marcus.studios">
@@ -76,11 +73,7 @@ const marcus = {
 
 <br>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/marcusstudios" target="_blank">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcusstudios&count=1&width=300" alt="Spotify Recently Played" />
-  </a>
-</div>
+
 
 
 
