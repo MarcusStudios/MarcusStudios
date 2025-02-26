@@ -1,204 +1,146 @@
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;Me+chamo+Marcus!;Desenvolvedor+Mobile,+Web+e+Java" />
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B;Me+chamo+Marcus!;Dev+Mobile%2C+Web+%26+Java" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MarcusStudios&color=blueviolet&style=flat-square&label=Visualizações+do+Perfil" alt="Visualizações do perfil"/>
+  <img src="https://komarev.com/ghpvc/?username=MarcusStudios&color=5E81AC&style=for-the-badge&label=VISITANTES" alt="Visualizações do perfil"/>
 </div>
 
-## 💫 Sobre Mim
+<br>
 
-Sou Marcus, estudante do IFMA e apaixonado por desenvolvimento mobile 📱, criação de sites 🌐 e programação Java ☕. Com 18 anos, estou sempre em busca de novos conhecimentos e desafios que me permitam crescer na área de tecnologia.
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
 
-- 🔭 Atualmente estou trabalhando em **aplicativos mobile com React Native e Expo**
-- 🌱 Estou aprendendo **Java, Spring Boot, Firebase e APIs RESTful**
-- 👯 Procuro colaborar em **projetos de código aberto e iniciativas educacionais**
-- 💬 Pergunte-me sobre **Java, React Native, JavaScript e desenvolvimento front-end**
-- ⚡ Curiosidade: **Além de programar, adoro música e jogos de estratégia!**
+## ✨ Sobre Mim
+
+```javascript
+const marcus = {
+  age: 18,
+  education: "IFMA",
+  interests: ["Mobile 📱", "Web 🌐", "Java ☕"],
+  currentFocus: "React Native e Expo",
+  learning: ["Java", "Spring Boot", "Firebase", "APIs RESTful"],
+  funFact: "Além de programar, adoro música e jogos de estratégia!"
+};
+```
+
+<img align="right" height="220px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVqZDg5NTdsMGNvY2p2ZGE3d2Z6bnRpOXg3a2xlcGNyaGFqYnI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+- 🔭 Atualmente estou trabalhando em **aplicativos mobile**
+- 🌱 Estou aprendendo **Java e Spring Boot**
+- 👯 Procuro colaborar em **projetos de código aberto**
+- 💬 Pergunte-me sobre **Java, React Native e desenvolvimento front-end**
+
+<br clear="right">
+
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350px" alt="Coding">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37" alt="Expo" />
 </div>
 
-## 🛠️ Tecnologias e Ferramentas
+<br>
 
 <div align="center">
-  
-  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-  ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
-  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
-  ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-  
+  <img src="https://skillicons.dev/icons?i=java,spring,javascript,react,html,css,firebase,git,vscode,idea,eclipse&theme=dark" />
 </div>
 
-## 💻 Habilidades em Java
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Conhecimentos em Java</h3>
-        <ul>
-          <li>Programação Orientada a Objetos</li>
-          <li>Collections Framework</li>
-          <li>Manipulação de Arquivos</li>
-          <li>Programação Funcional (Streams, Lambda)</li>
-          <li>Multithreading</li>
-          <li>JDBC para conexão com bancos de dados</li>
-        </ul>
-      </td>
-      <td width="50%">
-        <h3 align="center">Frameworks & Bibliotecas</h3>
-        <ul>
-          <li>Aprendendo Spring Boot</li>
-          <li>Maven para gerenciamento de dependências</li>
-          <li>JUnit para testes unitários</li>
-          <li>JavaFX para interfaces gráficas</li>
-          <li>Hibernate/JPA</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarcusStudios&show_icons=true&theme=tokyonight&hide_border=true" height="170px" alt="Estatísticas do GitHub"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=tokyonight&hide_border=true" height="170px" alt="Linguagens Mais Utilizadas"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusStudios&theme=tokyonight&hide_border=true" alt="Contribuições Diárias"/>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arawns1/Arawns1/blob/output/light.svg">
-  <img alt="Gráfico de contribuições em formato de cobra" src="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
-</picture>
-
-## 🏆 GitHub Troféus
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MarcusStudios&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" alt="GitHub Troféus"/>
-</div>
-
-## 📌 Projetos em Destaque
+## 📊 GitHub Stats
 
 <div align="center">
   
+  <a href="https://github.com/marcusstudios">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusStudios&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&icon_color=5E81AC&text_color=ECEFF4&ring_color=88C0D0" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&text_color=ECEFF4" />
+  </a>
+  
+  <br>
+  
+  <a href="https://github.com/marcusstudios">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusStudios&background=0D1117&ring=5E81AC&fire=88C0D0&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=5E81AC&sideLabels=5E81AC&dates=4C566A&hide_border=true" />
+  </a>
+  
+  <br>
+  
+  <a href="https://github.com/marcusstudios">
+    <img src="https://github-profile-trophy.vercel.app/?username=MarcusStudios&theme=nord&no-frame=true&column=7&margin-w=5&margin-h=5&bg_color=0D1117" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
+
+## 🚀 Projetos
+
+<div align="center">
   <a href="https://github.com/MarcusStudios/linguageando">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusStudios&repo=linguageando&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusStudios&repo=linguageando&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&icon_color=5E81AC&text_color=ECEFF4" />
   </a>
   <a href="https://github.com/MarcusStudios/reciclagem-jogo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusStudios&repo=reciclagem-jogo&theme=tokyonight&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MarcusStudios&repo=reciclagem-jogo&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&icon_color=5E81AC&text_color=ECEFF4" />
   </a>
-  
 </div>
 
-### 📱 Projetos Detalhados
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">LINGUAGEANDO</h3>
-      <div align="center">
-        <a href="https://github.com/MarcusStudios/linguageando">
-          <img src="https://github.com/MarcusStudios/Linguageando/blob/main/src/assets/logo.png?raw=true" width="100" height="100" alt="LINGUAGEANDO Logo"/>
-        </a>
-        <p>
-          <a href="https://github.com/MarcusStudios/linguageando" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-        <p>Aplicativo para aprendizado de línguas desenvolvido com React Native e Firebase. Oferece exercícios interativos, áudios e estatísticas de progresso.</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Jogo de Reciclagem</h3>
-      <div align="center">
-        <a href="https://github.com/MarcusStudios/reciclagem-jogo">
-          <img src="https://thumbs.dreamstime.com/b/ecology-logo-environmental-label-green-leaves-tree-drop-water-37248254.jpg" width="100" height="100" alt="Reciclagem Logo"/>
-        </a>
-        <p>
-          <a href="https://github.com/MarcusStudios/reciclagem-jogo" target="_blank">
-            <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/>
-          </a>
-        </p>
-        <p>Jogo educativo sobre reciclagem desenvolvido com JavaScript. Ensina crianças sobre separação de resíduos de forma divertida e interativa.</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### ☕ Projetos Java
-
-<table>
-  <tr>
-    <td width="100%">
-      <h3 align="center">Sistema de Gestão Escolar (Em desenvolvimento)</h3>
-      <div align="center">
-        <p>Sistema desenvolvido em Java para gerenciamento de alunos, professores e disciplinas. Utiliza interface gráfica JavaFX e armazenamento em banco de dados SQL.</p>
-        <p>Principais recursos:</p>
-        <ul>
-          <li>Cadastro de alunos e professores</li>
-          <li>Registro de notas e frequência</li>
-          <li>Geração de relatórios de desempenho</li>
-          <li>Interface gráfica intuitiva</li>
-        </ul>
-        <p>Tecnologias: Java, JavaFX, JDBC, MySQL</p>
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 📫 Entre em Contato
+## 📫 Contato
 
 <div align="center">
-  
   <a href="mailto:marcuseduardo846@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Gmail-5E81AC?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/marcusstudios" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  <a href="https://www.linkedin.com/in/marcusstudios">
+    <img src="https://img.shields.io/badge/LinkedIn-5E81AC?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/marcus.studios" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  <a href="https://instagram.com/marcus.studios">
+    <img src="https://img.shields.io/badge/Instagram-5E81AC?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
 </div>
 
-## 💼 Experiência Profissional
-
-- **Projetos Acadêmicos** - IFMA (2023-2024)
-  - Desenvolvimento de soluções educacionais e aplicativos para o campus
-  - Implementação de sistemas em Java para gestão acadêmica
-  - Participação em iniciativas de extensão e pesquisa
-
-- **Freelancer** - Desenvolvimento Web e Software (2022-Atual)
-  - Criação de sites responsivos para pequenos negócios
-  - Desenvolvimento de aplicações desktop com Java
-  - Implementação de lojas virtuais e landing pages
-
-## 📚 Formação e Certificações
-
-- **Técnico em Informática** - IFMA (2022-2024)
-- **Engenharia de Software** - IFMA (2025-2029)
-
-
----
+<br>
 
 <div align="center">
-  <b>Obrigado pela visita! 👨‍💻</b>
+  <a href="https://open.spotify.com/user/marcusstudios" target="_blank">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=marcusstudios&count=1&width=300" alt="Spotify Recently Played" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
+</p>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC&height=120&section=footer" />
 </div>
