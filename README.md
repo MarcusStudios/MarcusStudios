@@ -31,9 +31,7 @@ const marcus = {
 
 <br clear="right">
 
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
+
 
 ## 🛠️ Tech Stack
 
@@ -45,47 +43,7 @@ const marcus = {
   <img src="https://skillicons.dev/icons?i=java,spring,idea,javascript,react,html,css,firebase,git,vscode,&theme=dark" />
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-  <a href="https://github.com/marcusstudios">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcusStudios&show_icons=true&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&icon_color=5E81AC&text_color=ECEFF4&ring_color=88C0D0" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&text_color=ECEFF4" />
-  </a>
-  
-  <br>
-  
-  <a href="https://github.com/marcusstudios">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusStudios&background=0D1117&ring=5E81AC&fire=88C0D0&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=5E81AC&sideLabels=5E81AC&dates=4C566A&hide_border=true" />
-  </a>
-  
-  <br>
-  
-  <a href="https://github.com/marcusstudios">
-    <img src="https://github-profile-trophy.vercel.app/?username=MarcusStudios&theme=nord&no-frame=true&column=7&margin-w=5&margin-h=5&bg_color=0D1117" />
-  </a>
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
-  </picture>
-</div>
-
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
 
 ## 🚀 Projetos
 
@@ -124,9 +82,7 @@ const marcus = {
   </a>
 </div>
 
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=5E81AC&height=120&section=footer" />
