@@ -8,9 +8,6 @@
 
 <br>
 
-<p align="center">
-  <img src="https://i.imgur.com/gdQkCbE.gif" alt="Linha animada" width="100%">
-</p>
 
 ## ✨ Sobre Mim
 
