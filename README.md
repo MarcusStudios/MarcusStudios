@@ -28,6 +28,11 @@ const marcus = {
 
 ## 📊 Meu Tempo de Codificação
  <!--START_SECTION:waka-->
+
+```txt
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 
