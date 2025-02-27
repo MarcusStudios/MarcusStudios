@@ -32,11 +32,11 @@ const marcus = {
 ## 📊 Meu Tempo de Codificação
 <!--START_SECTION:waka-->
 
+```txt
+From: 19 February 2025 - To: 26 February 2025
 
-
-
-
-
+No activity tracked
+```
 
 <!--END_SECTION:waka-->
 
