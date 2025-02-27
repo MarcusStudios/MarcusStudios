@@ -3,17 +3,20 @@ name: Work Stats Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs every 2 hours
-    - cron: "0 */2 * * *"
+    - cron: "0 */2 * * *"  # Executa a cada 2 horas
 
 jobs:
   update-readme:
     name: Update this repo's README
     runs-on: ubuntu-latest
     permissions:
-      contents: write  # Dá permissão de escrita ao workflow
+      contents: write  # Permite modificar o README
     steps:
-      - uses: athul/waka-readme@master 
+      - name: Checkout do repositório
+        uses: actions/checkout@v4  # Clona o repositório
+
+      - name: Atualizar o README com dados do WakaTime
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Adiciona o token de autenticação
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token do GitHub para atualizar o README
