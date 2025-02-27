@@ -26,12 +26,10 @@ const marcus = {
 
 <br clear="right">
 
-## ⏱️ Meu Tempo de Código
-
+## 📊 Meu Tempo de Codificação
 <!--START_SECTION:waka-->
-![WakaTime](https://wakatime.com/share/@MarcusStudios/074a81b7-e86c-402a-80f0-e07672c97803.svg)
-
 <!--END_SECTION:waka-->
+
 
 
 
