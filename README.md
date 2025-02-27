@@ -34,7 +34,7 @@ const marcus = {
 
 
 ## 🛠️ Tech Stack
-<br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,idea,javascript,react,html,css,firebase,git,vscode,&theme=dark" />
 </div>
@@ -61,4 +61,4 @@ const marcus = {
     <img src="https://img.shields.io/badge/Instagram-5E81AC?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-<br>
+
