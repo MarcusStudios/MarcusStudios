@@ -28,7 +28,8 @@ const marcus = {
 
 ## ⏱️ Meu Tempo de Código
 
-<figure><embed src="https://wakatime.com/share/@MarcusStudios/074a81b7-e86c-402a-80f0-e07672c97803.svg"></embed></figure>
+![WakaTime](https://wakatime.com/share/@MarcusStudios/074a81b7-e86c-402a-80f0-e07672c97803.svg)
+
 
 ## 🛠️ Tech Stack
 <br>
