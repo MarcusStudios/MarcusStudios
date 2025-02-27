@@ -28,13 +28,7 @@ const marcus = {
 
 ## ⏱️ Meu Tempo de Código
 
-[<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->](https://github-readme-stats.vercel.app/api/wakatime?username=MarcusStudios
-)
-
-<figure>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cdc48bb3-9b4c-4c83-bfaa-75e523a4a264&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&icon_color=5E81AC&text_color=ECEFF4" alt="Wakatime Stats" />
-</figure>
+<figure><embed src="https://wakatime.com/share/@MarcusStudios/074a81b7-e86c-402a-80f0-e07672c97803.svg"></embed></figure>
 
 ## 🛠️ Tech Stack
 <br>
