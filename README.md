@@ -15,6 +15,7 @@ const marcus = {
   learning: ["Java", "Spring Boot", "Firebase", "APIs RESTful"],
   funFact: "Além de programar, adoro música e jogos de estratégia!"
 };
+<br>
 
 
 
