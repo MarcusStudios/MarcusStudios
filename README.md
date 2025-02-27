@@ -19,7 +19,7 @@ const marcus = {
 
 
 
-<img align="right" height="220px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVqZDg5NTdsMGNvY2p2ZGE3d2Z6bnRpOXg3a2xlcGNyaGFqYnI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
+
 
 - 🔭 Atualmente estou trabalhando em **aplicativos mobile**
 - 🌱 Estou aprendendo **Java e Spring Boot**
