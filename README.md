@@ -27,8 +27,7 @@ const marcus = {
 <br clear="right">
 
 ## 📊 Meu Tempo de Codificação
-<!--START_SECTION:waka-->
-
+ <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 
