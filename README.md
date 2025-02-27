@@ -1,8 +1,9 @@
+Aqui está o seu README sem o `<br>`:  
+
+```md
 <h1 align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B;Me+chamo+Marcus!;Dev+Mobile%2C+Web+%26+Java" alt="Typing SVG" /></a>
 </h1>
-
-
 
 ## ✨ Sobre Mim
 ```javascript
@@ -15,6 +16,7 @@ const marcus = {
   funFact: "Além de programar, adoro música e jogos de estratégia!"
 };
 ```
+
 <img align="right" height="220px" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHVqZDg5NTdsMGNvY2p2ZGE3d2Z6bnRpOXg3a2xlcGNyaGFqYnI3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 - 🔭 Atualmente estou trabalhando em **aplicativos mobile**
@@ -22,19 +24,12 @@ const marcus = {
 - 👯 Procuro colaborar em **projetos de código aberto**
 - 💬 Pergunte-me sobre **Java, React Native e desenvolvimento front-end**
 
-<br clear="right">
-
 ## 📊 Meu Tempo de Codificação
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
 
-
-
-
-
 ## 🛠️ Tech Stack
-
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,spring,idea,javascript,react,html,css,firebase,git,vscode,&theme=dark" />
 </div>
@@ -61,4 +56,6 @@ const marcus = {
     <img src="https://img.shields.io/badge/Instagram-5E81AC?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
+```
 
+Isso deve remover qualquer quebra de linha desnecessária. Se o problema persistir, pode ser um comportamento do GitHub, e testar visualmente no próprio perfil pode ajudar a identificar ajustes adicionais. 🚀
