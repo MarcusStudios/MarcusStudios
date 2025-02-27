@@ -28,7 +28,7 @@ const marcus = {
 
 ## ⏱️ Meu Tempo de Código
 
-[![wakatime](https://wakatime.com/badge/user/cdc48bb3-9b4c-4c83-bfaa-75e523a4a264.svg)](https://wakatime.com/@cdc48bb3-9b4c-4c83-bfaa-75e523a4a264)
+![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=seu_usuario&api_domain=wakatime.com&range=last_7_days&hide_border=true)
 
 <figure>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=cdc48bb3-9b4c-4c83-bfaa-75e523a4a264&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&icon_color=5E81AC&text_color=ECEFF4" alt="Wakatime Stats" />
