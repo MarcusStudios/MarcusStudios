@@ -29,7 +29,7 @@ const marcus = {
   </ul>
 </div>
 
-## 📊 Meu Tempo de Codificação <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" alt="Alarm Clock" width="25" />
+## 📊 Meu Tempo de Codificação <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" alt="" width="25" />
 
 <!--START_SECTION:waka-->
 ```txt
