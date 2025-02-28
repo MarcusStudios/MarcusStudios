@@ -33,6 +33,10 @@ const marcus = {
 <!--START_SECTION:waka-->
 
 ```txt
+From: 26 February 2025 - To: 27 February 2025
+
+Total Time: 1 hr 11 mins
+
 Java             1 hr 10 mins    ████████████████████████▒   97.49 %
 GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
