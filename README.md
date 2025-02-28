@@ -7,7 +7,7 @@
 </div>
 
 
-<div style="display: flex; align-items: center;">✨ Sobre Mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="40" style="margin-left: 8px; vertical-align: middle;" /></div>
+✨ Sobre Mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="Man Technologist Medium Skin Tone" width="30" style="vertical-align: middle; margin-bottom: 5px;" />
 
 ```javascript
 const marcus = {
