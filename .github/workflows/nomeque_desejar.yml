@@ -1,26 +1,31 @@
 name: Waka Readme
 
 on:
-  # Permite execução manual
   workflow_dispatch:
-  # Executa diariamente à meia-noite UTC
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Executa diariamente à meia-noite UTC
 
 jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
-    permissions:
-      contents: write  # Permite ao workflow fazer commits no repositório
     steps:
-      - name: Checkout do repositório
-        uses: actions/checkout@v4
-
-      - name: Atualizar WakaTime no README
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Permissão para atualizar o README
-          IGNORED_LANGUAGES: ""  # Garante que nenhuma linguagem seja ignorada
-          COMMIT_MESSAGE: "Atualizando estatísticas do WakaTime 🚀"
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }} # Chave da API do WakaTime
+          API_BASE_URL: https://wakatime.com/api
+          SHOW_TITLE: true
+          SECTION_NAME: waka
+          TIME_RANGE: all_time
+          LANG_COUNT: 10
+          SHOW_TIME: true
+          SHOW_TOTAL: true
+          SHOW_MASKED_TIME: false
+          STOP_AT_OTHER: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          COMMIT_MESSAGE: "Updated waka-readme graph with new metrics 🚀"
+          TARGET_BRANCH: master
+          TARGET_PATH: README.md
+          COMMITTER_NAME: GitHubActionBot
+          COMMITTER_EMAIL: action-bot@github.com
