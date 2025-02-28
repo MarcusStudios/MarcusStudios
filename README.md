@@ -1,5 +1,5 @@
 <h1 align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B;Me+chamo+Marcus<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="40" />!;Dev+Mobile+%26+Java" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=35&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&random=false&width=600&height=70&lines=Ol%C3%A1!+%F0%9F%91%8B;Me+chamo+Marcus!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB;Dev+Mobile+%26+Java" alt="Typing SVG" /></a>
 </h1>
 
 <div align="center">
