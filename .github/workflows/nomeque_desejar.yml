@@ -11,6 +11,8 @@ jobs:
   update-readme:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
+    permissions:
+      contents: write  # Permite ao workflow fazer commits no repositório
     steps:
       - name: Checkout do repositório
         uses: actions/checkout@v4
