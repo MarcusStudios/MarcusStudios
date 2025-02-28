@@ -35,6 +35,7 @@ const marcus = {
 ```txt
 Java             1 hr 10 mins    ████████████████████████▒   97.49 %
 GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+
 ```
 
 <!--END_SECTION:waka-->
