@@ -30,7 +30,7 @@ const marcus = {
     <li>🌱 Estou aprendendo <strong>Java e Spring Boot</strong></li>
     <li>👥 Procuro colaborar em <strong>projetos de código aberto</strong></li>
     <li>💬 Pergunte-me sobre <strong>Java, React Native e desenvolvimento front-end</strong></li>
-    <li>⚡ Fun fact: <strong>Consigo resolver o cubo mágico em menos de 2 minutos</strong></li>
+    <li>⚡ Fun fact: <strong>Fiquei responsavel por desenvolver jogos educacionais para o meu campus</strong></li>
   </ul>
 </div>
 
