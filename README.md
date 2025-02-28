@@ -16,7 +16,7 @@ const marcus = {
   interests: ["Mobile 📱", "Web 🌐", "Java ☕"],
   currentFocus: "React Native e Expo",
   learning: ["Java", "Spring Boot", "Firebase", "APIs RESTful"],
-  funFact: "Além de programar, adoro música 🎵 e jogos de estratégia 🎮!"
+  funFact: "Além de programar, adoro jogos e fazer jogos 🎮!"
 };
 ```
 
