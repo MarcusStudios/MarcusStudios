@@ -1,10 +1,10 @@
 name: Waka Readme
 
 on:
-  # for manual workflow trigger
+  # Permite execução manual
   workflow_dispatch:
+  # Executa diariamente à meia-noite UTC
   schedule:
-    # runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -12,6 +12,11 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - uses: athul/waka-readme@master # this action name
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Atualizar WakaTime no README
+        uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Permissão para atualizar o README
