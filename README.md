@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=MarcusStudios&style=for-the-badge&color=5E81AC" alt="Profile Views" />
 </div>
 
-## ✨ Sobre Mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="40" />
+✨ Sobre Mim <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist" width="40" />
 
 ```javascript
 const marcus = {
