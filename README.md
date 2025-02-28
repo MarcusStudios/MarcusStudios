@@ -49,13 +49,12 @@ GitIgnore file   1 min           ▓░░░░░░░░░░░░░░�
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MarcusStudios&theme=nord&hide_border=true&background=0D1117&stroke=5E81AC&fire=5E81AC&ring=5E81AC&currStreakNum=ECEFF4&sideNums=ECEFF4&currStreakLabel=5E81AC&sideLabels=5E81AC&dates=ECEFF4" />
 </div>
 
-## 🛠️ Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" />
-
+🛠️ Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="25" />
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,idea,javascript,react,html,css,firebase,git,vscode&theme=dark" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&text_color=ECEFF4" />
-</div>
+🚀 Tecnologias
+<img src="https://skillicons.dev/icons?i=java,spring,idea,javascript,react,html,css,firebase,git,vscode&theme=dark" />
+📊 Estatísticas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&text_color=ECEFF4" /> </div>
 
 
 
