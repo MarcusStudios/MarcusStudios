@@ -57,13 +57,7 @@ GitIgnore file   1 min           ▓░░░░░░░░░░░░░░�
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcusStudios&layout=compact&theme=nord&hide_border=true&bg_color=0D1117&title_color=5E81AC&text_color=ECEFF4" />
 </div>
 
-<details>
-  <summary>🌟 Tecnologias que estou aprendendo</summary>
-  <br>
-  <div align="center">
-    <img src="https://skillicons.dev/icons?i=kotlin,flutter,nodejs,express,mongodb&theme=dark" />
-  </div>
-</details>
+
 
 ## 🚀 Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" />
 
