@@ -20,3 +20,4 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Permissão para atualizar o README
+          SHOW_EDITORS: "true" # Adiciona a IDE usada
