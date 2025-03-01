@@ -37,12 +37,19 @@ const marcus = {
 ## 📊 Meu Tempo de Codificação <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Alarm%20Clock.png" alt="" width="25" />
 
 <!--START_SECTION:waka-->
+
 ```txt
-From: 26 February 2025 - To: 27 February 2025
-Total Time: 1 hr 11 mins
-Java             1 hr 10 mins    ████████████████████████▒   97.49 %
-GitIgnore file   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
+From: 26 February 2025 - To: 28 February 2025
+
+Total Time: 1 hr 42 mins
+
+Java             1 hr 37 mins    ████████████████████████░   95.39 %
+HTML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
+
 <!--END_SECTION:waka-->
 
 <div align="center">
