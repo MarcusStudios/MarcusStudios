@@ -39,15 +39,16 @@ const marcus = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 28 February 2025
+From: 26 February 2025 - To: 01 March 2025
 
-Total Time: 1 hr 42 mins
+Total Time: 3 hrs 2 mins
 
-Java             1 hr 37 mins    ████████████████████████░   95.39 %
-HTML             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.42 %
-GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 %
-JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 %
-CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Java             2 hrs 34 mins   █████████████████████░░░░   84.43 %
+HTML             19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+XML              6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 %
+GitIgnore file   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+JavaScript       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+CSS              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
