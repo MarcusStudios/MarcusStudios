@@ -69,7 +69,7 @@ GitIgnore file   2 mins          ░░░░░░░░░░░░░░░�
 
 
 
-## 🚀 Projetos <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="Rocket" width="25" />
+## 🚀 Projetos 
 
 <div align="center">
   <a href="https://github.com/MarcusStudios/linguageando">
