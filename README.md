@@ -39,19 +39,19 @@ const marcus = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 07 March 2025
+From: 26 February 2025 - To: 08 March 2025
 
-Total Time: 9 hrs 31 mins
+Total Time: 10 hrs 9 mins
 
-Java             4 hrs 57 mins   █████████████░░░░░░░░░░░░   52.06 %
-HTML             1 hr 11 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.52 %
-TypeScript       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.74 %
-JavaScript       21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
-C#               19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
-XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-CSS              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.08 %
-Markdown         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Java             4 hrs 57 mins   ████████████▒░░░░░░░░░░░░   48.77 %
+HTML             1 hr 13 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.06 %
+TypeScript       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+JavaScript       32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
+Markdown         23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+C#               19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+CSS              7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.31 %
+GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
