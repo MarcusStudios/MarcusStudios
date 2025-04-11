@@ -39,7 +39,7 @@ const marcus = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 09 April 2025
+From: 26 February 2025 - To: 10 April 2025
 
 Total Time: 11 hrs 53 mins
 
