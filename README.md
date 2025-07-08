@@ -39,18 +39,18 @@ const marcus = {
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 February 2025 - To: 06 July 2025
+From: 26 February 2025 - To: 07 July 2025
 
-Total Time: 17 hrs 19 mins
+Total Time: 17 hrs 25 mins
 
-Java             6 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   40.33 %
-TypeScript       3 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.03 %
-HTML             1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
-JavaScript       1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
-C#               53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Markdown         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.29 %
+Java             6 hrs 59 mins   ██████████░░░░░░░░░░░░░░░   40.12 %
+TypeScript       3 hrs 54 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.45 %
+HTML             1 hr 36 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
+JavaScript       1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
+C#               53 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.12 %
+Markdown         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.28 %
 CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
-XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 %
+XML              9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 TSConfig         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
