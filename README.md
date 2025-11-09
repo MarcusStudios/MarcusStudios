@@ -2,8 +2,7 @@
 
 # 👋 Marcus Eduardo
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Mobile+%F0%9F%93%B1;Backend+Java+%E2%98%95;18+anos+%7C+IFMA" alt="Typing SVG" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=435&lines=Desenvolvedor+Mobile+%F0%9F%93%B1;Backend+Java+%E2%98%95" alt="Typing SVG" />
 </div>
 
 ---
