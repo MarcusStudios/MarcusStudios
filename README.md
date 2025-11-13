@@ -10,6 +10,8 @@
 
 ## 🚀 Sobre mim
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
 Desenvolvedor focado em criar aplicações mobile robustas e backends escaláveis. Apaixonado por tecnologia e sempre em busca de novos desafios que impulsionem meu crescimento profissional.
 
 ## 💻 Stack Tecnológica
@@ -46,8 +48,6 @@ Desenvolvedor focado em criar aplicações mobile robustas e backends escalávei
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marcuseduardo846@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seu-perfil)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MarcusStudios)
 
 </div>
 
