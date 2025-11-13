@@ -2,7 +2,7 @@
 
 # 👋 Olá, eu sou Marcus Eduardo
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=5E81AC&center=true&vCenter=true&width=500&lines=Desenvolvedor+Mobile+%F0%9F%93%B1;Backend+Java+%E2%98%95;Apaixonado+por+criar+soluções" alt="Typing SVG" />
+**Desenvolvedor Mobile 📱 | Backend Java ☕**
 
 </div>
 
@@ -54,7 +54,7 @@ Desenvolvedor focado em criar aplicações mobile robustas e backends escalávei
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcuseduardo846&color=5E81AC&style=for-the-badge" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=MarcusStudios&color=5E81AC&style=for-the-badge" alt="Profile views" />
 </div>
 
 <div align="center">
