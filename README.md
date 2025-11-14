@@ -1,10 +1,4 @@
-<div align="center">
 
-# 👋 Olá, eu sou Marcus Eduardo
-
-**Desenvolvedor Mobile 📱 | Backend Java ☕**
-
-</div>
 
 ---
 
